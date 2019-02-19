@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Reanima_Cardio</string>
+    <string name="Tutorial_button">Tutorial</string>
+    <string name="confirm_button">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="aesp_ass">AESP ASS.</string>
+    <string name="fv_tvsp">FV TVSP</string>
 </resources>
