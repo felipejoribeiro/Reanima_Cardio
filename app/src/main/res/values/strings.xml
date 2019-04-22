@@ -5,4 +5,10 @@
     <string name="cancel">Cancelar</string>
     <string name="aesp_ass">AESP ASS.</string>
     <string name="fv_tvsp">FV TVSP</string>
+    <string name="informa_es">Informações</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="aviso_inicio_procedimento">Ao clicar em confirmar, o protocolo de registros iniciará, dando partida na contagem do tempo das ações necessárias ao procedimento de reanimação.</string>
+    <string name="iniciar_procedimento">Iniciar procedimento?</string>
+    <string name="_00_00_00">00:00</string>
+    <string name="tempo_de_procedimento">Tempo de procedimento -</string>
 </resources>
